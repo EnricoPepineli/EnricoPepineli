@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EnricoPepineli
+- 👀 I’m interested in evolving as a beginning programmer
+- 🌱 I’m currently learning to program in CSS
+- 📫 you can contact me via email: enricopepineli@outlook.com 
